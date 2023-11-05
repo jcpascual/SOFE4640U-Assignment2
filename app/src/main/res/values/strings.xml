@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="view_location_textview_placeholder_text">AppLocation address</string>
+    <string name="alert_location_title">Location</string>
+    <string name="alert_location_button_dismiss">OK</string>
+    <string name="activity_edit_button_save">Save</string>
+    <string name="activity_edit_button_cancel">Cancel</string>
+    <string name="alert_error_lookup_fail_title">Error</string>
+    <string name="alert_error_lookup_fail_message">Failed to find coordinates for the specified location.</string>
+    <string name="alert_error_lookup_fail_button_dismiss">OK</string>
+    <string name="alert_normal_lookup_success_title">Success</string>
+    <string name="alert_normal_lookup_success_button_dismiss">OK</string>
+</resources>
